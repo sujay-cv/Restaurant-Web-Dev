@@ -1,0 +1,72 @@
+body{
+background-image:repeating-linear-gradient(109.6deg,  rgba(68,50,41,1) 11.2%, rgba(83,63,52,1) 47.7%, rgba(153,86,15,1) 100.2%);
+no-repeat center center fixed;
+background-size: cover;
+}
+h2
+{
+color:rgba(255, 105, 180, 0.726);
+font-size:35px;
+font-style:italic;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header
+{
+width:90%;
+margin: auto;
+overflow: hidden;
+}
+head{
+float:right;
+color:solid;
+font-family: cursive;
+}
+nav{
+float:right;
+font-size:20px;
+}
+li{
+display:inline;
+padding:3rem;
+}
+li a{
+color:blue;
+text-decoration: none;
+font-weight: bold;
+}
+.active{
+color:plum;
+}
+.container{
+width: 70%;
+margin: auto;
+overflow: hidden;
+margin-top: 1%;
+}
+showcase h1{
+color:whitesmoke;
+font-family: cursive;
+text-align: center;
+}
+showcase h3{
+color:black;
+text-align: center;
+letter-spacing: 2px;
+}
+.category{
+color:gold;
+margin-top: top:1%;
+display:flex;
+text-align:center;
+}
+img{
+width: 80%;
+border-radius:40%;
+}
+.btn{
+background-color: gold;
+padding:0.88rem;
+border: hidden;
+border-radius:8px;
+margin-left:44%
+}
